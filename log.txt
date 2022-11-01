@@ -1,0 +1,11 @@
+commit e4491e38446790f4dde4f579318bf01cd7a61916
+Author: 010radhe <radheambhure8288@gmail.com>
+Date:   Tue Nov 1 20:05:00 2022 +0530
+
+    Event Managment task Pdf Added
+
+commit 2fe8bca31ce8785b581a058cc7236d8abdb54225
+Author: 010radhe <radheambhure8288@gmail.com>
+Date:   Tue Nov 1 19:59:48 2022 +0530
+
+    Resume Added
